@@ -1,4 +1,3 @@
-*..yml
 *.sqlite3
 *.pyc
 .env
