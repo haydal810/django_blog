@@ -1,0 +1,9 @@
+*..yml
+*.sqlite3
+*.pyc
+.env
+.vscode
+.venvyc
+__pycache__/
+venv/
+env/
